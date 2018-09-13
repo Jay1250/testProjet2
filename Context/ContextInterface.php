@@ -31,4 +31,6 @@ interface ContextInterface
      * @return bool true if the request is secure, false otherwise
      */
     public function isSecure();
+
+    public function jesuisincroyable();
 }
